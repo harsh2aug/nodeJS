@@ -1,0 +1,10 @@
+{
+    "name":"Harsh Bamaniya",
+    "city":"Meerut",
+    "age":23,
+    "skills":[
+        "JavaScript",
+        "Node.js",
+        "React"
+    ]
+}
